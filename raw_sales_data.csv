@@ -1,0 +1,106 @@
+Order_ID,Customer_ID,Customer_Name,Age,Gender,City,Product_Name,Category,Quantity,Unit_Price,Discount,Order_Date,Payment_Method,Order_Status,Customer_Rating,Date_of_Birth,Total_Amount
+ORD001,CUST010,Customer_1,43.0,Male,Jaipur,Saree,Traditional Wear,4,4648.68,0.03,07/02/2024,Net Banking,Returned,3.0,1981-01-11,18036.88
+ORD002,CUST037,Customer_2,27.0,Female,Jaipur,Handbag,Accessories,3,2192.48,0.29,2024-03-13,Cash,Delivered,5.0,1997-01-07,4669.98
+ORD003,CUST016,Customer_3,18.0,Female,Chennai,Jewellery,Accessories,1,664.91,0.24,2024-08-25,UPI,Cancelled,2.0,2006-01-05,505.33
+ORD004,CUST001,Customer_4,36.0,Male,Pune,Saree,Traditional Wear,2,4501.54,0.05,2024-01-31,Cash,Delivered,1.0,1988-01-10,8552.93
+ORD005,CUST050,Customer_5,41.0,Male,Kolkata,T-Shirt,Western Wear,3,3607.75,0.27,2024-10-22,UPI,Returned,1.0,1983-01-11,7900.97
+ORD006,CUST029,Customer_6,21.0,male,Bangalore,Jewellery,Accessories,1,2230.43,0.06,2024-03-10,Credit Card,Pending,5.0,2003-01-06,2096.6
+ORD007,CUST026,Customer_7,47.0,female,Kolkata,Jewellery,Accessories,1,1617.78,0.39,2024-06-16,UPI,Delivered,4.0,1977-01-12,986.85
+ORD008,CUST030,Customer_8,34.0,Male,Chennai,Lehenga,Traditional Wear,1,1057.22,0.31,2024-04-06,Cash,Pending,1.0,1990-01-09,729.48
+ORD009,CUST049,Customer_9,38.0,Male,Delhi,Jeans,Western Wear,3,4656.78,0.36,2024-07-04,Debit Card,Returned,5.0,1986-01-10,8941.02
+ORD010,CUST030,Customer_10,36.0,Male,Hyderabad,Saree,Traditional Wear,2,1534.64,0.31,2024-10-07,Debit Card,Delivered,5.0,1988-01-10,2117.8
+ORD011,CUST050,Customer_11,32.0,Male,Pune,Jewellery,Accessories,2,0.0,0.2,2024-09-20,Net Banking,DELIVERED,3.0,1992-01-09,3758.4
+ORD012,CUST009,Customer_12,33.0,Female,Pune,Shoes,Footwear,1,3127.39,0.05,2024-12-05,UPI,Pending,2.0,1991-01-09,2971.02
+ORD013,CUST010,Customer_13,35.0,Male,Chennai,Kurti,Traditional Wear,3,1931.79,0.09,2024-10-24,Debit Card,Pending,3.0,1989-01-09,5273.79
+ORD014,CUST001,Customer_14,43.0,Female,Kolkata,T-Shirt,Western Wear,3,2337.18,0.25,2024-01-20,Net Banking,Delivered,1.0,1981-01-11,5258.65
+ORD015,CUST043,Customer_15,35.0,Male,Pune,Shoes,Footwear,2,412.45,0.31,2024-04-29,Net Banking,Pending,1.0,1989-01-09,569.18
+ORD016,CUST041,Customer_16,50.0,female,Delhi,Saree,Traditional Wear,1,1387.98,0.21,2024-01-16,Cash,Cancelled,1.0,1974-01-13,1096.5
+ORD017,CUST037,Customer_17,35.0,Female,Bangalore,Handbag,Accessories,1,2432.64,0.15,2024-08-02,Net Banking,RETURNED,4.0,1989-01-09,2067.74
+ORD018,CUST017,Customer_18,,Male,Mumbai,Jeans,Western Wear,4,4438.0,0.27,2024-04-26,Credit Card,Delivered,,1990-01-09,12958.96
+ORD019,CUST037,Customer_19,44.0,Female,Bangalore,Shoes,Footwear,1,1068.42,0.16,2024-06-10,Net Banking,Delivered,4.0,1980-01-12,897.47
+ORD020,CUST048,Customer_20,30.0,Female,Delhi,Handbag,Accessories,3,1909.64,0.14,2024-09-11,Debit Card,Delivered,3.0,1994-01-08,4926.87
+ORD021,CUST012,Customer_21,48.0,Male,Chennai,Handbag,Accessories,3,99999.0,0.28,23/12/2024,UPI,Returned,2.0,1976-01-13,3594.15
+ORD022,CUST025,Customer_22,35.0,Female,Hyderabad,Lehenga,Traditional Wear,1,3685.27,0.22,2024-03-07,Credit Card,Delivered,2.0,1989-01-09,2874.51
+ORD023,CUST044,Customer_23,35.0,Female,Mumbai,Lehenga,Traditional Wear,2,1486.96,0.4,2024-10-20,Cash,Returned,2.0,1989-01-09,1784.35
+ORD024,CUST034,Customer_24,34.0,Female,Chennai,Jewellery,Accessories,1,1856.94,0.15,2024-06-01,Credit Card,Returned,2.0,1990-01-09,1578.4
+ORD025,CUST009,Customer_25,18.0,Male,Kolkata,Jeans,Western Wear,1,1897.86,0.28,2024-03-24,UPI,Pending,1.0,2006-01-05,1366.46
+ORD026,CUST037,Customer_26,49.0,Male,Mumbai,Lehenga,Traditional Wear,4,1462.95,0.22,2024-01-20,Net Banking,Cancelled,2.0,1975-01-13,4564.4
+ORD027,CUST015,Customer_27,27.0,Female,Jaipur,Shoes,Footwear,4,2805.27,0.18,2024-03-04,Cash,Returned,3.0,1997-01-07,9201.29
+ORD028,CUST050,Customer_28,18.0,Male,Hyderabad,Jeans,Western Wear,3,1429.51,0.12,01/12/2024,UPI,Delivered,5.0,2006-01-05,3773.91
+ORD029,CUST014,Customer_29,40.0,Male,Kolkata,Jewellery,Accessories,2,1668.02,0.24,2024-07-16,Net Banking,Pending,1.0,1984-01-11,2535.39
+ORD030,CUST006,Customer_30,50.0,Male,Mumbai,T-Shirt,Western Wear,4,673.62,0.26,2024-12-17,Cash,DELIVERED,5.0,1974-01-13,1993.92
+ORD031,CUST014,Customer_31,20.0,Male,Pune,Jewellery,Accessories,2,4142.57,0.35,2024-04-27,Net Banking,Cancelled,5.0,2004-01-06,5385.34
+ORD032,CUST026,Customer_32,21.0,Male,Mumbai,Handbag,Accessories,4,2170.0,0.24,2024-05-03,Credit Card,Pending,3.0,2003-01-06,6596.8
+ORD033,CUST014,Customer_33,49.0,Male,Pune,Saree,Traditional Wear,2,2163.16,0.06,09/11/2024,Debit Card,Cancelled,2.0,1975-01-13,4066.74
+ORD034,CUST029,Customer_34,,Male,,Saree,Traditional Wear,4,2787.34,0.33,2024-02-05,,Cancelled,,1971-01-14,7470.07
+ORD035,CUST023,Customer_35,45.0,male,Hyderabad,T-Shirt,Western Wear,3,3119.21,0.06,2024-04-04,UPI,Returned,3.0,1979-01-12,8796.17
+ORD036,CUST031,Customer_36,36.0,Female,Hyderabad,Jeans,Western Wear,3,2929.64,0.26,2024-12-21,Credit Card,Returned,4.0,1988-01-10,6503.8
+ORD037,CUST031,Customer_37,31.0,Female,Pune,T-Shirt,Western Wear,4,580.96,0.07,2024-09-03,Net Banking,Delivered,,1993-01-08,2161.17
+ORD038,CUST026,Customer_38,47.0,Male,Kolkata,Lehenga,Traditional Wear,2,4937.98,0.19,18/11/2024,Net Banking,Cancelled,4.0,1977-01-12,7999.53
+ORD039,CUST013,Customer_39,29.0,Female,Pune,Shoes,Footwear,2,1956.09,0.29,2024-09-08,Net Banking,Returned,3.0,1995-01-08,2777.65
+ORD040,CUST002,Customer_40,40.0,Female,Bangalore,T-Shirt,Western Wear,1,1681.16,0.19,2024-09-17,UPI,Cancelled,5.0,1984-01-11,1361.74
+ORD041,CUST032,Customer_41,29.0,male,Bangalore,Shoes,Footwear,1,2128.49,0.06,2024-05-07,UPI,Returned,2.0,1995-01-08,2000.78
+ORD042,CUST037,Customer_42,39.0,Female,Chennai,Jewellery,Accessories,3,384.28,0.29,2024-11-15,Cash,Pending,3.0,1985-01-10,818.52
+ORD043,CUST028,Customer_43,51.0,Female,Pune,Handbag,Accessories,2,450.61,0.32,2024-05-20,UPI,Cancelled,1.0,1973-01-13,612.83
+ORD044,CUST019,Customer_44,49.0,Male,Bangalore,Jewellery,Accessories,1,1206.27,0.29,2024-03-31,UPI,Returned,1.0,1975-01-13,856.45
+ORD045,CUST030,Customer_45,42.0,Male,Hyderabad,Kurti,Traditional Wear,4,1482.16,0.27,2024-02-28,Cash,Delivered,1.0,1982-01-11,4327.91
+ORD046,CUST014,Customer_46,50.0,Female,Pune,Shoes,Footwear,4,296.87,0.11,09/09/2024,Debit Card,Cancelled,5.0,1974-01-13,1056.86
+ORD047,CUST023,Customer_47,27.0,Male,Chennai,Jeans,Western Wear,1,2173.4,0.11,2024-07-09,Credit Card,Cancelled,3.0,1997-01-07,1934.33
+ORD048,CUST024,Customer_48,44.0,female,Kolkata,T-Shirt,Western Wear,4,2795.39,0.34,2024-06-19,UPI,Returned,2.0,1980-01-12,7379.83
+ORD049,CUST031,Customer_49,25.0,Female,Jaipur,Handbag,Accessories,2,3672.71,0.21,2024-02-08,Debit Card,Cancelled,2.0,1999-01-07,5802.88
+ORD050,CUST012,Customer_50,26.0,Female,Pune,T-Shirt,Western Wear,2,4439.78,0.33,2024-06-23,Debit Card,Pending,2.0,1998-01-07,5949.31
+ORD051,CUST029,Customer_51,39.0,Male,Hyderabad,Saree,Traditional Wear,2,943.83,0.25,2024-01-19,Cash,Returned,4.0,1985-01-10,1415.74
+ORD052,CUST011,Customer_52,26.0,Female,Bangalore,Saree,Traditional Wear,3,2394.79,0.22,2024-10-22,Credit Card,Cancelled,2.0,1998-01-07,5603.81
+ORD053,CUST025,Customer_53,46.0,Male,Jaipur,Jewellery,Accessories,4,4850.75,0.33,16/09/2024,UPI,Pending,3.0,1978-01-12,13000.01
+ORD054,CUST010,Customer_54,48.0,Female,Jaipur,Lehenga,Traditional Wear,1,1706.75,0.27,2024-02-03,Credit Card,Cancelled,3.0,1976-01-13,1245.93
+ORD055,CUST016,Customer_55,43.0,Male,Jaipur,Kurti,Traditional Wear,2,4736.56,0.28,2024-11-07,Credit Card,Returned,5.0,1981-01-11,6820.65
+ORD056,CUST019,Customer_56,43.0,Male,Jaipur,Kurti,Traditional Wear,4,1494.72,0.09,2024-11-07,Debit Card,Pending,1.0,1981-01-11,5440.78
+ORD057,CUST017,Customer_57,32.0,Female,Bangalore,Jeans,Western Wear,1,438.18,0.36,2024-03-14,Credit Card,Pending,2.0,1992-01-09,280.44
+ORD058,CUST008,Customer_58,35.0,Male,Pune,Handbag,Accessories,3,3231.18,0.05,2024-02-06,Credit Card,Returned,3.0,1989-01-09,9208.86
+ORD059,CUST025,Customer_59,39.0,female,Kolkata,Shoes,Footwear,2,2012.29,0.05,2024-10-15,Credit Card,Delivered,3.0,1985-01-10,3823.35
+ORD060,CUST012,Customer_60,31.0,Female,Pune,Jeans,Western Wear,1,1293.64,0.06,2024-06-18,Cash,Cancelled,2.0,1993-01-08,1216.02
+ORD061,CUST018,Customer_61,51.0,Female,Jaipur,Kurti,Traditional Wear,1,1341.96,0.14,2024-04-29,Net Banking,Delivered,3.0,1973-01-13,1154.09
+ORD062,CUST047,Customer_62,22.0,Male,Kolkata,Kurti,Traditional Wear,3,1376.87,0.0,2024-09-16,Net Banking,Pending,1.0,2002-01-06,4130.61
+ORD063,CUST008,Customer_63,41.0,Female,Mumbai,Jewellery,Accessories,3,3380.45,0.05,2024-08-19,Net Banking,Delivered,4.0,1983-01-11,9634.28
+ORD064,CUST012,Customer_64,48.0,Female,Chennai,Jeans,Western Wear,1,1872.83,0.29,2024-01-13,Net Banking,Cancelled,1.0,1976-01-13,1329.71
+ORD065,CUST029,Customer_65,46.0,Male,Kolkata,T-Shirt,Western Wear,3,2047.25,0.33,2024-12-18,Cash,Delivered,5.0,1978-01-12,4114.97
+ORD066,CUST034,Customer_66,45.0,Male,Bangalore,Shoes,Footwear,4,4137.99,0.01,2024-04-20,Net Banking,DELIVERED,3.0,1979-01-12,16386.44
+ORD067,CUST021,Customer_67,27.0,Male,Hyderabad,Handbag,Accessories,2,4496.11,0.03,2024-02-19,UPI,Returned,5.0,1997-01-07,8722.45
+ORD068,CUST033,Customer_68,25.0,Male,Bangalore,Handbag,Accessories,2,1510.18,0.04,2024-08-09,Credit Card,Delivered,2.0,1999-01-07,2899.55
+ORD069,CUST025,Customer_69,40.0,Female,Mumbai,Jewellery,Accessories,4,4400.04,0.12,2024-02-27,UPI,Delivered,1.0,1984-01-11,15488.14
+ORD070,CUST045,Customer_70,50.0,Male,Kolkata,T-Shirt,Western Wear,1,4414.78,0.05,2024-02-18,UPI,Pending,5.0,1974-01-13,4194.04
+ORD071,CUST006,Customer_71,21.0,Male,Pune,Lehenga,Traditional Wear,4,3974.38,0.27,2024-04-27,UPI,Cancelled,5.0,2003-01-06,11605.19
+ORD072,CUST005,Customer_72,27.0,Female,Kolkata,Jeans,Western Wear,1,226.92,0.13,21/10/2024,UPI,Returned,4.0,1997-01-07,197.42
+ORD073,CUST008,Customer_73,30.0,Female,Hyderabad,Jeans,Western Wear,4,1414.2,0.13,2024-07-13,Credit Card,Cancelled,4.0,1994-01-08,4921.42
+ORD074,CUST025,Customer_74,22.0,Female,Hyderabad,Kurti,Traditional Wear,2,1128.16,0.06,2024-04-28,UPI,Delivered,5.0,2002-01-06,2120.94
+ORD075,CUST025,Customer_75,48.0,Male,Bangalore,Lehenga,Traditional Wear,3,2172.43,0.03,2024-11-12,Cash,Delivered,5.0,1976-01-13,6321.77
+ORD076,CUST045,Customer_76,24.0,Male,Delhi,Jewellery,Accessories,3,2344.19,0.3,2024-12-19,UPI,Delivered,3.0,2000-01-07,4922.8
+ORD077,CUST035,Customer_77,28.0,Male,Mumbai,Lehenga,Traditional Wear,4,4009.97,0.28,2024-07-11,UPI,Pending,4.0,1996-01-08,11548.71
+ORD078,CUST041,Customer_78,48.0,Female,Hyderabad,Jeans,Western Wear,2,3671.52,0.2,2024-12-22,Cash,Cancelled,2.0,1976-01-13,5874.43
+ORD079,CUST016,Customer_79,27.0,Female,Bangalore,Jeans,Western Wear,2,200.51,0.34,17/08/2024,Credit Card,Cancelled,4.0,1997-01-07,264.67
+ORD080,CUST014,Customer_80,20.0,Male,Chennai,Jeans,Western Wear,2,2905.95,0.2,2024-03-07,Net Banking,Pending,3.0,2004-01-06,4649.52
+ORD081,CUST025,Customer_81,,Female,,Jewellery,Accessories,3,4176.95,0.23,2024-01-09,,Returned,,2005-01-05,9648.75
+ORD082,CUST016,Customer_82,,Female,,Shoes,Footwear,1,211.38,0.1,2024-03-18,,Returned,,1993-01-08,190.24
+ORD083,CUST007,Customer_83,29.0,Male,Delhi,Shoes,Footwear,1,1715.78,0.26,2024-07-01,Net Banking,Cancelled,,1995-01-08,1269.68
+ORD084,CUST022,Customer_84,23.0,male,Hyderabad,Handbag,Accessories,4,3615.37,0.26,2024-12-25,Credit Card,Returned,5.0,2001-01-06,10701.5
+ORD085,CUST043,Customer_85,,Male,,T-Shirt,Western Wear,3,-100.0,0.03,2024-01-22,,Returned,,1977-01-12,5140.75
+ORD086,CUST023,Customer_86,38.0,Male,Kolkata,Saree,Traditional Wear,3,2228.25,0.01,2024-07-12,Cash,Returned,3.0,1986-01-10,6617.9
+ORD087,CUST012,Customer_87,52.0,Male,Chennai,Saree,Traditional Wear,2,2210.37,0.26,2024-11-08,Net Banking,Cancelled,3.0,1972-01-14,3271.35
+ORD088,CUST049,Customer_88,50.0,Female,Pune,Shoes,Footwear,1,4369.04,0.13,2024-08-28,Cash,Returned,1.0,1974-01-13,3801.06
+ORD089,CUST013,Customer_89,48.0,Male,Mumbai,Shoes,Footwear,3,719.99,0.37,14/10/2024,Cash,Cancelled,1.0,1976-01-13,1360.78
+ORD090,CUST029,Customer_90,40.0,Male,Jaipur,T-Shirt,Western Wear,1,2953.37,0.27,2024-02-09,Debit Card,Cancelled,3.0,1984-01-11,2155.96
+ORD091,CUST033,Customer_91,23.0,male,Bangalore,Kurti,Traditional Wear,2,3090.61,0.24,2024-02-12,Credit Card,Returned,1.0,2001-01-06,4697.73
+ORD092,CUST050,Customer_92,36.0,Male,Bangalore,Lehenga,Traditional Wear,1,542.11,0.39,2024-04-26,UPI,Delivered,5.0,1988-01-10,330.69
+ORD093,CUST016,Customer_93,19.0,Male,Kolkata,Jewellery,Accessories,2,1662.33,0.34,2024-02-03,Cash,Returned,4.0,2005-01-05,2194.28
+ORD094,CUST045,Customer_94,,Male,,Handbag,Accessories,4,2462.55,0.26,2024-09-05,Cash,Returned,,1993-01-08,7289.15
+ORD095,CUST041,Customer_95,36.0,Male,Pune,Jeans,Western Wear,3,2258.12,0.1,2024-01-15,Cash,Delivered,1.0,1988-01-10,6096.92
+ORD096,CUST043,Customer_96,45.0,Male,Hyderabad,Handbag,Accessories,1,3867.01,0.14,2024-08-23,Debit Card,Cancelled,4.0,1979-01-12,3325.63
+ORD097,CUST046,Customer_97,37.0,Male,Bangalore,Jewellery,Accessories,4,1349.24,0.1,2024-03-17,UPI,Cancelled,5.0,1987-01-10,4857.26
+ORD098,CUST044,Customer_98,25.0,Male,Bangalore,T-Shirt,Western Wear,1,3047.69,0.11,2024-12-03,Credit Card,Delivered,1.0,1999-01-07,2712.44
+ORD099,CUST034,Customer_99,42.0,Male,Kolkata,Lehenga,Traditional Wear,1,1236.74,0.37,2024-01-10,Debit Card,Returned,2.0,1982-01-11,779.15
+ORD100,CUST046,Customer_100,33.0,Male,Bangalore,Jewellery,Accessories,3,1777.07,0.12,2024-06-05,Debit Card,Delivered,2.0,1991-01-09,4691.46
+ORD084,CUST022,Customer_84,23.0,Male,Hyderabad,Handbag,Accessories,4,3615.37,0.26,2024-12-25,Credit Card,Returned,5.0,2001-01-06,10701.5
+ORD031,CUST014,Customer_31,20.0,Male,Pune,Jewellery,Accessories,2,4142.57,0.35,2024-04-27,Net Banking,CANCELLED,5.0,2004-01-06,5385.34
+ORD057,CUST017,Customer_57,32.0,Female,Bangalore,Jeans,Western Wear,1,438.18,0.36,2024-03-14,Credit Card,Pending,2.0,1992-01-09,280.44
+ORD025,CUST009,Customer_25,18.0,male,Kolkata,Jeans,Western Wear,1,1897.86,0.28,2024-03-24,UPI,Pending,1.0,2006-01-05,1366.46
+ORD017,CUST037,Customer_17,35.0,Female,Bangalore,Handbag,Accessories,1,2432.64,0.15,2024-08-02,Net Banking,Returned,4.0,1989-01-09,2067.74

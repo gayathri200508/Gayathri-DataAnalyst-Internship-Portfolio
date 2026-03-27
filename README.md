@@ -1,58 +1,56 @@
-# Gayathri-DataAnalyst-Internship-Portfolio
-📊 Master Portfolio — ApexPlanet Software Data Analytics Internship | Python, Pandas, SQL, Streamlit, Plotly, Hypothesis Testing | 5 Tasks | 
-# 📊 Gayathri Gollapolu — Data Analyst Internship Portfolio
+# 🛍️ Task 1 – Data Immersion & Wrangling
+### ApexPlanet Software Pvt. Ltd. | 60-Day Data Analytics Internship
+### 👩‍💻 Intern: Gayathri
 
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen?style=flat-square&logo=github)
-![Internship](https://img.shields.io/badge/ApexPlanet%20Software-Data%20Analytics-blue?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
+## 📌 What is This Task About?
+In this task I learned how to:
+- Load a messy dataset
+- Find data quality problems
+- Fix all the problems
+- Add new useful columns
+- Save a clean dataset
 
-> **60-day Data Analytics Internship** at ApexPlanet Software Pvt. Ltd. — a complete end-to-end data analytics project from raw data to business insights.
+## 📂 Files in This Repository
 
-## 🌐 Live Portfolio Website
-👉 **[View Portfolio](https://gayathri200508.github.io/Gayathri-DataAnalyst-Internship-Portfolio)**
-
-## 👩‍💻 About Me
-
-| Field | Details |
+| File | Description |
 |---|---|
-| **Name** | Gayathri Gollapolu (Chinnu) |
-| **Degree** | B.Tech — AI & Data Science |
-| **College** | Annamacharya Institute of Technology & Sciences, Tirupati |
-| **CGPA** | 8.6 |
-| **Graduation** | 2027 |
-| **LinkedIn** | [gayathri-gollapolu-741278362](https://linkedin.com/in/gayathri-gollapolu-741278362) |
-| **GitHub** | [gayathri200508](https://github.com/gayathri200508) |
+| `raw_sales_data.csv` | Original messy dataset |
+| `task1_data_cleaning.py` | Python script to clean data |
+| `cleaned_sales_data.csv` | Final clean dataset |
+| `data_dictionary.md` | Explanation of all columns |
 
-## 📁 Internship Tasks
+## ❌ Problems Found in Raw Data
 
-| Task | Title | Topics Covered | Repository |
-|------|-------|---------------|------------|
-| ✅ Task 1 | Data Wrangling & Cleaning | Python, Pandas, NumPy, Feature Engineering | [View Repo](#) |
-| ✅ Task 2 | EDA & SQL Analysis | Jupyter, Seaborn, SQLite, 10+ Visualizations | [View Repo](#) |
-| ✅ Task 3 | Interactive BI Dashboard | Streamlit, Plotly, 5 KPIs, 12+ Charts | [View Repo](#) |
-| ✅ Task 4 | Hypothesis Testing & Storytelling | SciPy, T-Test, 9-Slide PPT, Business Insights | [View Repo](#) |
-| ✅ Task 5 | Capstone Master Portfolio | GitHub Pages, HTML/CSS, Full Integration | ← You are here |
+| # | Problem | Count |
+|---|---|---|
+| 1 | Missing Values | 23 |
+| 2 | Duplicate Rows | 5 |
+| 3 | Inconsistent Text | 15 |
+| 4 | Mixed Date Formats | 10 |
+| 5 | Invalid Prices | 3 |
 
+## ✅ How I Fixed Them
 
-## 📊 Key Business Findings
+| # | Fix |
+|---|---|
+| 1 | Filled missing values with median and mode |
+| 2 | Removed duplicate rows |
+| 3 | Standardized all text to Title Case |
+| 4 | Unified all dates to YYYY-MM-DD format |
+| 5 | Replaced bad prices with median price |
 
-- 🏆 **Accessories** = 57.1% of total revenue (₹5,12,180)
-- 🚨 **29.8% return rate** — critical revenue leak
-- ⭐ **Avg rating: 2.95/5** — below industry benchmark
-- 🏙️ **Bangalore** = top city with 22% order share
-- 📱 **UPI** = most popular payment (27.9%)
-- 💰 **Avg Order Value: ₹8,620** | Total: ₹8,96,474
+## 📊 Result
 
-## 🛠️ Skills Demonstrated
+| | Before | After |
+|---|---|---|
+| Rows | 105 | 104 |
+| Columns | 17 | 21 |
+| Missing Values | 23 | 0 ✅ |
+| Duplicates | 5 | 0 ✅ |
 
-`Python` `Pandas` `NumPy` `SQL` `SQLite` `Matplotlib` `Seaborn` `Plotly` `Streamlit` `Jupyter` `SciPy` `Hypothesis Testing` `Data Storytelling` `GitHub` `GitHub Pages`
+## 🛠️ Tools Used
+- Python 3.14
+- Pandas
+- NumPy
 
-## 💡 Key Learnings
-
-- Real-world data is always messy — cleaning is 60% of the work
-- SQL + Python together is a powerful combo for analysis
-- Visualizations should answer a business question, not just look good
-- Hypothesis testing gives statistical confidence to observations
-- A good portfolio tells a story, not just shows code
-
-<p align="center">Made with 💙 by Gayathri Gollapolu &nbsp;·&nbsp; ApexPlanet Software Internship 2024–25</p>
+*ApexPlanet Software Pvt. Ltd. | Data Analytics Internship | Task 1 of 5*

@@ -1,0 +1,51 @@
+order_id,product,category,price,quantity,revenue,region,payment_method
+1001,Fiction Book,Home & Kitchen,1874.27,9,16868.43,South,Debit Card
+1002,Mixer,Electronics,1649.2,9,14842.8,East,Cash on Delivery
+1003,Textbook,Sports,2836.59,4,11346.36,North,Cash on Delivery
+1004,Textbook,Home & Kitchen,4315.1,5,21575.5,North,Cash on Delivery
+1005,Textbook,Home & Kitchen,2567.55,2,5135.1,East,Cash on Delivery
+1006,Phone,Home & Kitchen,880.64,7,6164.48,East,Credit Card
+1007,Lamp,Home & Kitchen,3901.94,10,39019.4,North,UPI
+1008,Textbook,Home & Kitchen,2380.12,9,21421.08,South,NetBanking
+1009,Yoga Mat,Home & Kitchen,1754.64,9,15791.76,North,Cash on Delivery
+1010,Mixer,Home & Kitchen,1425.06,5,7125.3,North,Credit Card
+1011,Laptop,Home & Kitchen,2474.86,3,7424.58,West,Credit Card
+1012,Saree,Books,359.21,1,359.21,West,UPI
+1013,Mixer,Sports,2281.18,2,4562.36,West,NetBanking
+1014,Saree,Home & Kitchen,4250.68,4,17002.72,North,Debit Card
+1015,Yoga Mat,Electronics,4052.99,3,12158.97,South,NetBanking
+1016,Laptop,Clothing,2304.85,2,4609.7,West,Credit Card
+1017,Lamp,Home & Kitchen,2691.08,6,16146.48,West,Debit Card
+1018,Lamp,Clothing,3235.67,8,25885.36,West,Debit Card
+1019,Jeans,Home & Kitchen,2468.28,6,14809.68,South,NetBanking
+1020,Saree,Electronics,3663.71,10,36637.1,North,NetBanking
+1021,Fiction Book,Electronics,2290.42,5,11452.1,South,NetBanking
+1022,Jeans,Home & Kitchen,1304.26,6,7825.56,South,Cash on Delivery
+1023,Laptop,Electronics,588.25,4,2353.0,East,NetBanking
+1024,Phone,Sports,3293.53,10,32935.3,West,Cash on Delivery
+1025,Saree,Home & Kitchen,1626.57,1,1626.57,West,NetBanking
+1026,Lamp,Sports,3146.07,7,22022.49,East,Credit Card
+1027,Lamp,Electronics,2071.95,1,2071.95,West,NetBanking
+1028,Cricket Bat,Books,341.81,6,2050.86,East,UPI
+1029,Phone,Electronics,2366.85,8,18934.8,West,NetBanking
+1030,Phone,Electronics,1173.73,3,3521.19,West,Credit Card
+1031,Jeans,Home & Kitchen,3919.31,9,35273.79,South,NetBanking
+1032,Laptop,Sports,428.11,3,1284.33,West,Debit Card
+1033,Lamp,Clothing,4775.49,8,38203.92,West,Debit Card
+1034,Saree,Home & Kitchen,1788.64,9,16097.76,South,UPI
+1035,Mixer,Home & Kitchen,4620.26,1,4620.26,West,Cash on Delivery
+1036,Saree,Sports,4873.84,9,43864.56,West,Cash on Delivery
+1037,Jeans,Books,2050.06,8,16400.48,West,Debit Card
+1038,Phone,Home & Kitchen,1107.56,9,9968.04,South,Cash on Delivery
+1039,Lamp,Home & Kitchen,3260.54,7,22823.78,East,Cash on Delivery
+1040,Laptop,Sports,1679.26,1,1679.26,West,Credit Card
+1041,Yoga Mat,Clothing,393.46,9,3541.14,North,NetBanking
+1042,Laptop,Books,636.93,5,3184.65,West,NetBanking
+1043,Lamp,Books,4205.86,4,16823.44,North,UPI
+1044,Fiction Book,Electronics,3024.07,9,27216.63,West,Credit Card
+1045,Textbook,Clothing,4960.9,9,44648.1,South,Credit Card
+1046,Phone,Electronics,4160.07,9,37440.63,East,UPI
+1047,Textbook,Books,2798.13,1,2798.13,East,Cash on Delivery
+1048,Mixer,Sports,3175.53,10,31755.3,North,NetBanking
+1049,Textbook,Sports,1577.98,6,9467.88,East,NetBanking
+1050,Phone,Sports,2137.55,1,2137.55,North,Cash on Delivery
